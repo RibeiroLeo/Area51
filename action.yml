@@ -2,7 +2,7 @@ name: 'Hello World'
 description: 'Greet someone'
 inputs:
   who-to-greet:  # id of input
-    description: 'Eumesmo'
+    description: 'Who to Greet'
     required: true
     default: 'World'
 outputs:
